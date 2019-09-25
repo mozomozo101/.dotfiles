@@ -1,0 +1,9 @@
+[user]
+	email = shibakira@gmail.com
+	name = mozomozo101
+[push]
+	default = matching
+[alias]
+	graph = log --graph --date-order --all --pretty=format:'%h %Cred%d %Cgreen%ad %Cblue%cn %Creset%s' --date=short
+[color]
+	ui = true
